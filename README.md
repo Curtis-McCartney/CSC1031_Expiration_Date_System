@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- This is an in-editor console output project, designed to emulate a Stock System for a small grocery store.</p>
+<p align="left">- A stock take system, built in Java, for a small grocery shop, mostly used for alerting staff to which batches of items are about to go out of stock, so that they can be taken to the reduced aisle or even be added and taken from a Staff Food Bank!</p>
 <p align="left">- All Data is stored within 6 Excel Files</p>
 <p align="left">- This data is read/written to using 3 DAL's.</p>
 
